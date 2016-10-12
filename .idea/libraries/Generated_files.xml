@@ -10,21 +10,25 @@
         <item url="file://$PROJECT_DIR$/client/controllers/navbar-compiled.js" />
         <item url="file://$PROJECT_DIR$/client/app-compiled.js" />
         <item url="file://$PROJECT_DIR$/client/controllers/signup-compiled.js" />
+        <item url="file://$PROJECT_DIR$/server/server-compiled.js" />
+        <item url="file://$PROJECT_DIR$/server/config-compiled.js" />
         <item url="file://$PROJECT_DIR$/client/controllers/detail-compiled.js" />
         <item url="file://$PROJECT_DIR$/client/views/detail-compiled.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/client/views/home-compiled.js" />
       <root url="file://$PROJECT_DIR$/client/controllers/home-compiled.js" />
-      <root url="file://$PROJECT_DIR$/client/views/login-compiled.js" />
       <root url="file://$PROJECT_DIR$/client/controllers/login-compiled.js" />
-      <root url="file://$PROJECT_DIR$/client/views/signup-compiled.js" />
       <root url="file://$PROJECT_DIR$/client/controllers/navbar-compiled.js" />
       <root url="file://$PROJECT_DIR$/client/app-compiled.js" />
       <root url="file://$PROJECT_DIR$/client/controllers/signup-compiled.js" />
-      <root url="file://$PROJECT_DIR$/client/controllers/detail-compiled.js" />
       <root url="file://$PROJECT_DIR$/client/views/detail-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/views/home-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/views/login-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/views/signup-compiled.js" />
+      <root url="file://$PROJECT_DIR$/server/server-compiled.js" />
+      <root url="file://$PROJECT_DIR$/server/config-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/controllers/detail-compiled.js" />
     </CLASSES>
     <SOURCES />
   </library>
